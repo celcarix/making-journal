@@ -14,11 +14,11 @@ This week's experiments made me realize that everyday things can be transformed 
 ## Images & Media
 
 
-*The GIF of the p5.js animation*
+*The p5.js animation*
+<video controls width="100%">
+  <source src="../assets/week-02/screen-recording7.mp4" type="video/mp4">
+</video>
 
-
-
-<img src="../assets/week-02/p5-animation.gif" alt="p5js animation" width="300">
 
 
 
