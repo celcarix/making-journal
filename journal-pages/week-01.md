@@ -9,7 +9,8 @@ layout: default
 ## Documentation 
 
 In the first week, I began to explore the concept of "design with data." I lear\ned that data is not just technical, but can also be seen as a design material that can be used to express ideas and stories. This week made me relise that data actually influences how we understand the world. Through collection, organisation, and visualization, data can be transformed into different forms, and the role of designers is to make this data easier to understand and more meaningful. What impressed me most was the concept of "data humanism," which emphasises that data is not just impersonal information, but can also be connected to people's emotions and daily lives. Which made me start thibking about wheater data can be used to express personal experiences and emotions. 
-In conclusion, this week made me relise that data design is not just about presenting information, but also a way of storytelling. I am very interested in transforming my personal life into data visualizations, so in subsequent experiments, I chose to record moments that made me happy and try to present them visually. 
+In conclusion, this week made me relise that data design is not just about presenting information, but also a way of storytelling. I am very interested in transforming my personal life into data visualizations, so in subsequent experiments, I chose to record moments that made me happy and try to present them visually.
+
 
 ## Images & Media
 

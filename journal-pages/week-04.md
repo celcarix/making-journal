@@ -13,13 +13,18 @@ The exercises this week allowed me to begin building my own databased and laid t
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+*Short sketches from Ollama and ChatGPT*
+![alt text](../assets/week-04/image-23.png)
+![alt text](../assets/week-04/image-24.png)
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+
+*Comparing responses of Ollama and ChatGPT*
+![alt text](../assets/week-04/image-25.png)
+![alt text](../assets/week-04/image-26.png)
+
+
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+For this week's excerices, I compared Ollama and ChatGPT, by asking them the same questions and comparing the responses. Firstly, I started with asking them to generate a short sketch of p5.js, next, I tried to ask them the same question. Through the experiement, I found out that Ollama is a well-function tool if there's no connection. ChatGPT to me has a better explain and more advanced responses. 
