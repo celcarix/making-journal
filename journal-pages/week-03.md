@@ -8,7 +8,12 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+This week’s experiments primarily explored how different tools can be used to present data, particularly the terminal and p5.js. I first tried a different function on the terminal. such as querying weather data, observing how the data was quickly presented in text form. This made me realise that data doesn't necessarily need complex images to be understood. 
+Besides the weather function, I also explored ASCII art. Through this method, the program is not just a tool for executing instructions, but can also produce visually appealing results. This was very interesting to me because it blurs the lines between data, text, and images, making the terminal appear not just as a technical interface, but as a medium that can be designed and viewed. I also tried using p5.js to present weather data, transforming the relatively static information on the terminal into a more visual form. Through this, I began to think about the differences in how the same data could be presented on different media and how different presentation methods lead to different reading experiences. 
+Overall, the exercises this week have helped me understand that there are various ways of presenting data. Whether it’s text output in the terminal or ASCII art, they all show me that data can be both informative and expressive. 
+
+
+
 
 ## Images & Media
 *Terminal-ASCII Animations*
