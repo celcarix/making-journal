@@ -6,7 +6,7 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Review and Refleect 
+## Review and Reflect 
 
 Over the past few weeks of experimentation, what I enjoyed most was documenting my daily life and transforming these experiences into data. Through organisation and visualisation, I could re-examine my life and make previously fragmented experiences more structured and meaningful. I also particularly enjoyed the terminal-related experiments, especially generating ASCII art animations through procedural code. This made me realise that data is not an object to be analysed, but can also become a form of visually expressive creation. This process of combining technology and creation was very interesting to me. Currently, I don’t have a very clear direction for development, but I am particularly interested in p5.js. While I'm new to coding, its potential in interactive and visual presentation makes me want to explore it further. Through these practical experiences, I gradually understand that data is not just objective information, but a medium that can be designed and interpreted. This also echoes the concept of data humanism mentioned in class, allowing data to connect with personal experiences and emotions. Based on the above experiments, I hope to combine daily data with interactive visualisations and develop a more personalised way of presenting data.
 
