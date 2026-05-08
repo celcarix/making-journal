@@ -8,16 +8,38 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+Reflection Summary:
+?????????!!!!!!!!!!
+
+
+Project Development:
+???????????!!!!!!!!
+
+
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
+*Critical Designing Propositions - Feedback I gave out*
+![alt text](../assets/week-08/image-43.png)
+![alt text](../assets/week-08/image-46.png)
+!!!!!!!!!!!???????????
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+
+
+*Critical Designing Propositions - Feedback I recived*
+![alt text](../assets/week-08/image-45.png)
+?????????????!!!!!!!!!!!!!!
+
+
+*Notes and Potential Development*
+![alt text](../assets/week-08/image-44.png)
+!!!!!!!!!!!?????????
+
+
+
+
+
 
 ## AI Usage Statement
 
