@@ -16,8 +16,10 @@ One of the main challenges was translating abstract emotions and personal data i
 
 **Project Development**
 
-At the moment, I have developed an early direction and structure for the project, but the final concept and presentation are still not fully resolved. I have started sketching ideas for the 3D book format and thinking about how emotions and data can be translated into physical interactions and structures. My next step is to continue developing prototypes, experiment with different folding and interactive mechanisms, and gather more feedback from others in order to refine the concept and presentation style further.## Images & Media
+At the moment, I have developed an early direction and structure for the project, but the final concept and presentation are still not fully resolved. I have started sketching ideas for the 3D book format and thinking about how emotions and data can be translated into physical interactions and structures. My next step is to continue developing prototypes, experiment with different folding and interactive mechanisms, and gather more feedback from others in order to refine the concept and presentation style further.
 
+
+## Images & Media
 
 *15 Minute Concept Sketch & Feedback*
 ![alt text](../assets/week-07/image-32.png)

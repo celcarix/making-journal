@@ -8,19 +8,31 @@ layout: default
 
 ## Documentation 
 
-Reflection Summary:
-?????????!!!!!!!!!!
+**Reflection Summary**
+
+This week, through progress reports and classroom feedback, I began to rethink my project direction. Originally, my project focused on presenting the theme of "moments of joy" using p5.js and a physical pop-up book. However, after receiving feedback, I realised that while my current work had a certain visual direction, the overall concept and audience interaction were still incomplete. Some feedback mentioned that the data and emotional connection in the work weren't strong enough, and it lacked a sense of genuine audience participation.
+This feedback made me think that my work shouldn't just be a simple presentation of my personal emotions and daily records. Still, it should also create an emotional connection for the audience. I also reconsidered the relationship between physical and digital, and decided to start developing a combination of both, rather than focusing solely on a single form of visual outcome.  Exchanging feedback with other students this week taught me a variety of presentation methods and approaches to concept development. I found that watching other people's projects and discussing ideas helped me see my own work's current problems more clearly and how to improve it in the future.
+
+One of the most important decisions I made after receiving feedback was to introduce a QR code interaction into the project. Several classmates mentioned that my original concept lacked audience participation and emotional engagement, which made me rethink how viewers could become more involved in the experience. In this development, I've started designing a QR code interaction. After viewing the artwork, viewers can scan the QR code to access an interactive page and rate their mood for the day (from 1 to 5). After rating, the system will provide a quote or a short joke based on the different mood scores, aiming to bring viewers a more positive and relaxed emotional experience. I decided to add this interaction because I wanted the work to create a small moment of positivity and emotional connection, rather than only presenting visual information. This development also changed my understanding of the relationship between physical and digital design. I realised that combining both formats could make the experience feel more interactive, personal, and memorable for the audience.
 
 
-Project Development:
-???????????!!!!!!!!
+**Project Development**
 
+Based on feedback received this week, I've begun developing a new interactive direction. I've decided to retain the original pop-up book/3D book format but incorporate elements of digital interaction, hoping to increase audience participation and emotional engagement.
+
+In this development, I've started designing a QR code interaction. After viewing the artwork, viewers can scan the QR code to access an interactive page and rate their mood for the day (from 1 to 5). After rating, the system will provide a quote or a short joke based on the different mood scores, aiming to bring viewers a more positive and relaxed emotional experience.
+
+I hope this interaction will continue the concept of "moments of joy" that the artwork originally expressed and respond to the anxiety that modern people easily experience due to social media and daily stress. I want this small interaction to allow viewers to develop a deeper emotional connection after viewing the artwork, rather than simply watching a visual outcome.
+
+Currently, I'm still exploring the most suitable digital platforms and technologies, such as interactive websites or other QR code systems. I also continue to test how physical and digital can be combined more naturally, and think about how to make the audience experience more complete and engaging.
 
 
 ## Images & Media
 
 *Progress Report - Notes& Potential Development*
 ![alt text](../assets/week-08/image-44.png) 
+![alt text](../assets/week-08/image-51.png)
+
 這個照片要換掉!!!!!!!!!!!?????????
 
 
@@ -33,21 +45,13 @@ I gave feedback and critical suggestions to another student’s project by analy
 
 *Critical Designing Propositions - Feedback I recived*
 ![alt text](../assets/week-08/image-45.png)
+![alt text](../assets/week-08/image-49.png)
+
 I received feedback and suggestions from other classmates regarding my project direction. They suggested that I consider combining digital and physical presentation methods to increase audience interactivity, and to make the emotions and data in the work more connected, or to create a more engaging interactive experience by adding more relatable interactive elements. This feedback helped me rethink how the audience would experience the work.
 
-
-
-*Independent Study*
-![alt text](../assets/week-08/image-44.png)
-Based on this week's progress report and class feedback, I've begun to rethink my project direction and how the participants can truly participate in my project. Originally, I aimed to present the theme through a physical pop-up book. However, after receiving feedback, I realised that while the work had a certain visual appeal, its interactivity and emotional connection were insufficient. Therefore, I started considering how to combine physical and digital method which allows viewers to not only view but also actively participate. 
-
-During the independent study, I developed a new interactive idea. By incorporating QR codes into the work, viewers can access a simple interactive page after viewing it. On the page, viewers will rate their mood for the day from 1 to 5. After rating, the system will provide a quote or a short joke based on their chosen mood, hoping to bring positive emotions and a sense of relaxation. 
-I hope this interaction goes beyond a simple function; it extends the original concept the work intended to express. My projects have always revolved around everyday emotions, moments of joy, and how people experience life. I've come to realise that modern people are prone to anxiety and emotional exhaustion due to social media, stress, and a fast-paced lifestyle. Therefore, I hope that after viewing the work, they can experience a more relaxed and joyful response through this interaction, increasing their participation and connection with this project.  
-
-This development has also made me start thinking about how to combine the physical and digital worlds. Originally, I focused only on the book's structure and visual outcome, but now I'm considering the audience experience and how viewers feel during interaction. I believe this direction allows the work to move beyond simply displaying data, creating a more direct relationship between data, emotions, and interaction.
-Currently, I haven't fully decided which digital platform or technology to use for this QR code interactive system, but I'm exploring different possibilities, such as simple interactive websites, form systems, or other digital methods that can incorporate QR codes. I hope to continue testing different interaction methods and further develop the connection between the physical and digital worlds, making the overall work more complete and engaging.
-
-
+*Moments of Joy documentatiton*
+![alt text](../assets/week-08/image-50.png)
+Through week 8's documentation, I've been keeping a record of small events in my daily life that make me happy or relaxed to observe the sources of my emotions more clearly, and what small things bring positive feelings.
 
 
 
