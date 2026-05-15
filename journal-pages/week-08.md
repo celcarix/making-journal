@@ -18,13 +18,9 @@ One of the most important decisions I made after receiving feedback was to intro
 
 **Project Development**
 
-Based on feedback received this week, I've begun developing a new interactive direction. I've decided to retain the original pop-up book/3D book format but incorporate elements of digital interaction, hoping to increase audience participation and emotional engagement.
+Based on feedback received this week, I've begun developing a new interactive direction. I've decided to retain the original pop-up book/3D book format but incorporate elements of digital interaction, hoping to increase audience participation and emotional engagement. In this development, I've started designing a QR code interaction. After viewing the artwork, viewers can scan the QR code to access an interactive page and rate their mood for the day (from 1 to 5). After rating, the system will provide a quote or a short joke based on the different mood scores, aiming to bring viewers a more positive and relaxed emotional experience.
 
-In this development, I've started designing a QR code interaction. After viewing the artwork, viewers can scan the QR code to access an interactive page and rate their mood for the day (from 1 to 5). After rating, the system will provide a quote or a short joke based on the different mood scores, aiming to bring viewers a more positive and relaxed emotional experience.
-
-I hope this interaction will continue the concept of "moments of joy" that the artwork originally expressed and respond to the anxiety that modern people easily experience due to social media and daily stress. I want this small interaction to allow viewers to develop a deeper emotional connection after viewing the artwork, rather than simply watching a visual outcome.
-
-Currently, I'm still exploring the most suitable digital platforms and technologies, such as interactive websites or other QR code systems. I also continue to test how physical and digital can be combined more naturally, and think about how to make the audience experience more complete and engaging.
+I hope this interaction will continue the concept of "moments of joy" that the artwork originally expressed and respond to the anxiety that modern people easily experience due to social media and daily stress. I want this small interaction to allow viewers to develop a deeper emotional connection after viewing the artwork, rather than simply watching a visual outcome. Currently, I'm still exploring the most suitable digital platforms and technologies, such as interactive websites or other QR code systems. I also continue to test how physical and digital can be combined more naturally, and think about how to make the audience experience more complete and engaging.
 
 
 ## Images & Media
@@ -32,9 +28,7 @@ Currently, I'm still exploring the most suitable digital platforms and technolog
 *Progress Report - Notes& Potential Development*
 ![alt text](../assets/week-08/image-44.png) 
 ![alt text](../assets/week-08/image-51.png)
-
-這個照片要換掉!!!!!!!!!!!?????????
-
+This week, I organised and summarized the feedback I received, rethinking the interactive elements and future direction of the work. Based on this feedback, I decided to incorporate digital interactive elements, such as QR codes, and began drawing preliminary sketches and audience experience flows to help me better plan the overall structure of the work.
 
 *Critical Designing Propositions - Feedback I gave out*
 ![alt text](../assets/week-08/image-43.png)
@@ -46,6 +40,7 @@ I gave feedback and critical suggestions to another student’s project by analy
 *Critical Designing Propositions - Feedback I recived*
 ![alt text](../assets/week-08/image-45.png)
 ![alt text](../assets/week-08/image-49.png)
+![alt text](../assets/week-08/image-52.png)
 
 I received feedback and suggestions from other classmates regarding my project direction. They suggested that I consider combining digital and physical presentation methods to increase audience interactivity, and to make the emotions and data in the work more connected, or to create a more engaging interactive experience by adding more relatable interactive elements. This feedback helped me rethink how the audience would experience the work.
 
@@ -58,4 +53,5 @@ Through week 8's documentation, I've been keeping a record of small events in my
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+![alt text](../assets/week-08/image-53.png)
+I used ChatGPT to inquire about methods for creating interactive QR codes, as well as the advantages and disadvantages of different approaches. ChatGPT provided some directions suitable for rapid prototyping, such as Google Forms, interactive websites, and p5.js. Although the suggestions were relatively brief and the directions were not very in-depth, they still helped me to better understand the differences between different methods and served as an important reference for my future work.
