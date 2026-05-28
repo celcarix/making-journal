@@ -79,19 +79,12 @@ This is the most complete version to date. I added multiple page transitions, ma
 My pop-up book is currently in the initial production stage. I've done basic measurements and paper cutting, and started testing the page layout and overall arrangement, considering how different content will be presented in the physical book. Although it's still in the early stages of a prototype, and many pop-up structures and details are not yet finalized, it has at least moved from the initial sketches and planning to actual production. This process has also helped me see the possibilities of the physical format more clearly, as well as areas that need further development.
 
 
-/////
-
 *Moments of Joy documentatiton*
-(以上還沒放圖)
+![alt text](../assets/week-09/image-16.png) 
 This week's Moments of Joy documentation is relatively simple compared to previous weeks, with fewer particularly interesting or significant events. It's more like recording ordinary little moments. While it appears quieter visually and less rich in content than the previous weeks, it made me realize that joy doesn't always come from grand events; sometimes it can be just ordinary, everyday moments. This way of recording is a new kind of documentation for me, making me pay more attention to emotions and everyday life itself, and helping me better understand my project concept.
 
 
 
-
-
-
-
-////////
 
 *Independent Study - Progress Report*
 ![alt text](../assets/week-09/image-11.png) 
