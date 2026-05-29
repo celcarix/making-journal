@@ -45,10 +45,13 @@ After the showcase, I decided to change the way of presenting from p5.js to a co
 I received and gave out some "what if" scenarios in order to identify some issues that we might face, and maybe a way to improve our work. 
 
 
- *Project Development & Skill Building*
+ *Project Development & Skill Building - 1*
 ![alt text](../assets/week-07/image-41.png)
+Documented the moments of joy for week 7. 
+
+ *Project Development & Skill Building - 2*
 ![alt text](../assets/week-07/image-42.png)
-Documented the moments of joy for week 7. I also took some notes on week 7's class, which helped me with development when I'm unsure about an idea. Especially at the beginning of the project, it's important to have something to guide. 
+I also took some notes on week 7's class, which helped me with development when I'm unsure about an idea. Especially at the beginning of the project, it's important to have something to guide. 
 
 
 
@@ -68,6 +71,5 @@ This progress report summarises my current project direction, visual research, a
 ## AI Usage Statement
 
 ![alt text](../assets/week-07/image-47.png)
-![alt text](../assets/week-07/image-48.png)
 
 I used ChatGPT to reflect on my project direction and concept development. It provides feedback on my idea, suggesting that the concept needed to be stronger and less dairy-like, as the data did not feel visually or emotionally impactful enough. It also helped me think about changing my theme and visualization method from p5.js to a handmade pop-up book format.
