@@ -26,21 +26,43 @@ I hope this interaction will continue the concept of "moments of joy" that the a
 ## Images & Media
 
 *Progress Report - Notes& Potential Development*
-![alt text](../assets/week-08/image-44.png) 
+![alt text](../assets/week-08/image-44.png)
+This image shows the notes I took based on the feedbacks I received during the in-class activity. 
+
+
+
 ![alt text](../assets/week-08/image-51.png)
 This week, I organised and summarized the feedback I received, rethinking the interactive elements and future direction of the work. Based on this feedback, I decided to incorporate digital interactive elements, such as QR codes, and began drawing preliminary sketches and audience experience flows to help me better plan the overall structure of the work.
 
+
+
 *Critical Designing Propositions - Feedback I gave out*
-![alt text](../assets/week-08/image-43.png)
+
 ![alt text](../assets/week-08/image-46.png)
+During the in-class activity, this is the first feedback I gave out; due to the limited time, that feedback is probably not that developed and deep. 
+
+
+
+
+
+![alt text](../assets/week-08/image-43.png)
+This image shows the notes and feedback I gave to the second person. I completed it outside of class time, so compared to the first feedback, it's more complete and also with a deeper suggestion.
+
+Short summary:
+
 I gave feedback and critical suggestions to another student’s project by analysing the strengths and weaknesses of their current direction. I considered how their concept could be developed further through material choices, interaction, and different forms of visualisation. I also responded to the feedback questions included in their progress report presentation and suggested possible improvements and alternative approaches that could make the project more engaging and meaningful.
 
 
 
 *Critical Designing Propositions - Feedback I recived*
 ![alt text](../assets/week-08/image-45.png)
-![alt text](../assets/week-08/image-49.png)
+The first feedback I received was also during class time. This person suggested that I should include more interaction with the viewers so that the final project isn't just a simple showcase.
+
+
 ![alt text](../assets/week-08/image-52.png)
+The second feedback was completed outside from classtime, personally, this is a more influential feedback since it has a clearer goal and a more specific suggestion on how I could make the whole design more developed. 
+
+Short summary:
 
 I received feedback and suggestions from other classmates regarding my project direction. They suggested that I consider combining digital and physical presentation methods to increase audience interactivity, and to make the emotions and data in the work more connected, or to create a more engaging interactive experience by adding more relatable interactive elements. This feedback helped me rethink how the audience would experience the work.
 
