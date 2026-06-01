@@ -72,26 +72,19 @@ This week I started collecting "moments of joy" data from my friends, trying to 
 
 
 
-///////////////
-
 *Moments of Joy documentatiton (Friend's data 2)*
 
-(還沒放圖)
+![alt text](../assets/week-10/image-9.png) 
 
 This image records the "moments of joy" data of the second friend on week 10. I collected daily happy moments from different people using the same recording method, hoping to compare the emotional patterns and lifestyles of different individuals. By expanding the data sources, I began to observe which daily behaviors and environmental factors repeatedly appeared in the positive emotional experiences of different people, and considered how this data could be transformed into subsequent visual and interactive design directions.
-
-/////////////
-
-
 
 
 *Project Development*
 
-(還沒放圖)
+![alt text](../assets/week-10/image-10.png) 
 
 This is my current direction for the interactive booklet's development. While the physical prototype is still in its early stages, I've already begun planning new interactive pages, including a rotating wheel, flip interaction, and designs that allow viewers to participate in content creation. I hope that in addition to the original p5.js QR code interaction, the physical book itself can become another interactive medium. I also started thinking about how to make the work not just present my own emotional data, but also incorporate viewer participation. For example, I want to add a page where viewers can draw their own "moments of joy," allowing physical and digital interaction to coexist. Through these new design directions, I'm beginning to have a clearer understanding of the overall interactive flow and emotional experience of the final work.
 
-/////////////
 
 ## AI Usage Statement
 
