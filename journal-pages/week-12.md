@@ -45,9 +45,6 @@ I hope this project will encourage viewers to slow down and pay attention to tho
 *Video 1 - Final Artegact Overview*
 
 
-<video controls width="100%">
-  <source src="../assets/week-12/screen-recording1.mp4" type="video/mp4">
-</video>
 
 This video showcases the complete interactive process of Moments of Joy, starting with the viewer opening the cover and gradually flipping through the pages to explore the information within. Using a handcrafted pop-up book as its primary medium, the work guides viewers step-by-step through the process of turning pages, lifting paper flaps, rotating a paper wheel, and reading different visual elements, leading them to understand the data on joyful moments collected over six weeks.
 
